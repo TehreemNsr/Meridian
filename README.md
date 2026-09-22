@@ -188,4 +188,4 @@ Pipeline Builder pipelines and the Workshop application live in Foundry and are 
 
 ## Author
 
-Tehreem Nasir — Strategy & Analytics Analyst. Built as an independent project on Palantir Foundry.
+Tehreem Nasir | Strategy & Analytics Analyst. Built as an independent project on Palantir Foundry.
