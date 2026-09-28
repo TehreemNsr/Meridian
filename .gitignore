@@ -1,0 +1,13 @@
+# data files are downloaded, never committed
+data/*
+!data/README.md
+!data/pos_crosswalk.csv
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Python
+__pycache__/
+*.pyc
